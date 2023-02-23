@@ -1,0 +1,91 @@
+body {
+    
+    background-color:aquamarine;
+    padding: 5px;
+    
+}
+
+footer {
+    background-color: darkgreen;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+h1 {
+    color: brown;
+    font-family: fantasy;
+}
+
+p {
+    color: burlywood;
+}
+
+#correo {
+    display: none;
+}
+
+#movil {
+    display: none;
+}
+
+#maletin {
+    display: none;
+}
+
+#gato {
+    display: none;
+}
+
+button {
+    background-color: darkgreen;
+    border-radius: 5px;
+    padding-right: 12px;
+
+}
+
+
+img {
+    padding-left: 10px;
+}
+
+header {
+    margin: 20px;
+    border: 2px solid black ;
+}
+
+.Parrafo {
+    color:black;
+}
+
+.edu {
+    padding: 20px;
+    color: yellowgreen;
+    font-family:fantasy
+}
+
+.Exper {
+    padding: 20px;
+    color: yellowgreen;
+    font-family:fantasy;
+}
+
+.Educacion {
+        display: block;
+        margin: 0 0 20px;
+        padding: 10px 25px;
+        width: 20%;
+}
+
+
+.Objet {
+    padding: 20px;
+    color: yellowgreen;
+    font-family: fantasy;
+}
+
+.Apti {
+    padding: 20px;
+    color: yellowgreen;
+    font-family: fantasy;
+}
